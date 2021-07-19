@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ConnectFour { // I am writing this comment to make a change
+public class ConnectFour {
 
     public static void printBoard(char[][] array) {
         for (int i = array.length - 1; i >= 0; i--) { // using the -- it prints the board from the bottom being row 0
